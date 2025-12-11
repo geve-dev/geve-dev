@@ -2,7 +2,6 @@
 
 <div align="center">
   <samp>
-      <br>
       Hi there! I'm <b>Gabriel Vinicius</b>
   </samp>
 </div>
@@ -12,7 +11,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=88c0d0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Web+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/></div>
+  <img src="https://readme-typing-svg.demolab.com?font=PressStart2P&color=88c0d0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Web+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/></div>
       
 <br>
 
@@ -41,10 +40,8 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  
 </div>
 
-<br>
 <br>
 <br>
 
@@ -71,7 +68,5 @@
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=88c0d0" /></p>  </div>
-<br>
-<br>
-<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=141&color=88c0d0&textBg=false&section=footer"/>
