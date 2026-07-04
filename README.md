@@ -29,17 +29,17 @@
 <br>
 
 <div align="center" width="100%" style="display: inline_block"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </div>
 
 <br>
